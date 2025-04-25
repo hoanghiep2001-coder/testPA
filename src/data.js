@@ -2,6 +2,12 @@ const BestPA = [
     {
         timeline: "List:",
         data: [
+            // TC3_Playable_V1_01
+            {
+                path: "/PATestDemo/TC3_Playable_V1_01.html",
+                name: "TC3_Playable_V1_01",
+                dev: "",
+            },
             {
                 path: "/PATestDemo/FH_Playable_V21_02_LevelCoin.html",
                 name: "FH_Playable_V21_02_LevelCoin",
