@@ -4,6 +4,11 @@ const BestPA = [
         data: [
             // TC3_Playable_V1_01
             {
+                path: "/PATestDemo/TC3_Playable_V1_02.html",
+                name: "TC3_Playable_V1_02",
+                dev: "",
+            },
+            {
                 path: "/PATestDemo/TC3_Playable_V1_01.html",
                 name: "TC3_Playable_V1_01",
                 dev: "",
