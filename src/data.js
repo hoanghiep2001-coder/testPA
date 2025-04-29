@@ -3,6 +3,12 @@ const BestPA = [
         timeline: "List:",
         data: [
             // TC3_Playable_V1_01
+            // MAC_Playable_V1_01_GamePlay
+            {
+                path: "/PATestDemo/MAC_Playable_V1_01_GamePlay.html",
+                name: "MAC_Playable_V1_01_GamePlay",
+                dev: "",
+            },
             {
                 path: "/PATestDemo/TC3_Playable_V1_03.html",
                 name: "TC3_Playable_V1_03",
