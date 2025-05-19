@@ -15,13 +15,13 @@ const BestPA = [
         dev: "",
       },
       {
-        path: "/PATestDemo/FH_Playable_V25_03_Circle.html",
-        name: "FH_Playable_V25_03_Circle",
+        path: "/PATestDemo/FH_Playable_V25_03_LevelCircle.html",
+        name: "FH_Playable_V25_03_LevelCircle",
         dev: "",
       },
       {
-        path: "/PATestDemo/FH_Playable_V25_02_Circle.html",
-        name: "FH_Playable_V25_02_Circle",
+        path: "/PATestDemo/FH_Playable_V25_02_LevelCircle.html",
+        name: "FH_Playable_V25_02_LevelCircle",
         dev: "",
       },
       {
@@ -30,18 +30,18 @@ const BestPA = [
         dev: "",
       },
       {
-        path: "/PATestDemo/FH_Playable_V25_05_Circle.html",
-        name: "FH_Playable_V25_05_Circle",
+        path: "/PATestDemo/FH_Playable_V25_04_LevelCircle.html",
+        name: "FH_Playable_V25_04_LevelCircle",
         dev: "",
       },
       {
-        path: "/PATestDemo/FH_Playable_V25_04_Circle.html",
-        name: "FH_Playable_V25_04_Circle",
+        path: "/PATestDemo/FH_Playable_V25_05_LevelCircle.html",
+        name: "FH_Playable_V25_05_LevelCircle",
         dev: "",
       },
       {
-        path: "/PATestDemo/FH_Playable_V25_06_Circle.html",
-        name: "FH_Playable_V25_06_Circle",
+        path: "/PATestDemo/FH_Playable_V25_06_LevelCircle.html",
+        name: "FH_Playable_V25_06_LevelCircle",
         dev: "",
       },
       {
