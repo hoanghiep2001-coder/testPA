@@ -4,33 +4,42 @@ const BestPA = [
     data: [
       // TC3_Playable_V1_01
       // MAC_Playable_V1_01_GamePlay
-      
-             {
+      {
+        path: "/PATestDemo/GTMP_Playable_V42_04_Remake_VidV34_07.html",
+        name: "GTMP_Playable_V42_04_Remake_VidV34_07",
+        dev: "",
+      },
+      {
+        path: "/PATestDemo/GTMP_Playable_V42_02_Remake_PlayableV17_01.html",
+        name: "GTMP_Playable_V42_02_Remake_PlayableV17_01",
+        dev: "",
+      },
+      {
         path: "/PATestDemo/FH_Playable_V25_03_Circle.html",
         name: "FH_Playable_V25_03_Circle",
         dev: "",
       },
-             {
+      {
         path: "/PATestDemo/FH_Playable_V25_02_Circle.html",
         name: "FH_Playable_V25_02_Circle",
         dev: "",
       },
-             {
+      {
         path: "/PATestDemo/FH_Playable_V25_01_LevelCircle.html",
         name: "FH_Playable_V25_01_LevelCircle",
         dev: "",
       },
-                {
+      {
         path: "/PATestDemo/FH_Playable_V25_05_Circle.html",
         name: "FH_Playable_V25_05_Circle",
         dev: "",
       },
-                {
+      {
         path: "/PATestDemo/FH_Playable_V25_04_Circle.html",
         name: "FH_Playable_V25_04_Circle",
         dev: "",
       },
-            {
+      {
         path: "/PATestDemo/FH_Playable_V25_06_Circle.html",
         name: "FH_Playable_V25_06_Circle",
         dev: "",
