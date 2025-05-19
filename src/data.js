@@ -4,6 +4,7 @@ const BestPA = [
     data: [
       // TC3_Playable_V1_01
       // MAC_Playable_V1_01_GamePlay
+      
              {
         path: "/PATestDemo/FH_Playable_V25_03_Circle.html",
         name: "FH_Playable_V25_03_Circle",
@@ -15,8 +16,8 @@ const BestPA = [
         dev: "",
       },
              {
-        path: "/PATestDemo/FH_Playable_V25_01_Circle.html",
-        name: "FH_Playable_V25_01_Circle",
+        path: "/PATestDemo/FH_Playable_V25_01_LevelCircle.html",
+        name: "FH_Playable_V25_01_LevelCircle",
         dev: "",
       },
                 {
