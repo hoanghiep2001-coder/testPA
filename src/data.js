@@ -4,6 +4,11 @@ const BestPA = [
     data: [
       // TC3_Playable_V1_01
       // MAC_Playable_V1_01_GamePlay
+         {
+        path: "/PATestDemo/MRA_Playable_V2.html",
+        name: "MRA_Playable_V2",
+        dev: "",
+      },
       {
         path: "/PATestDemo/GTMP_Playable_V42_04_Remake_VidV34_07.html",
         name: "GTMP_Playable_V42_04_Remake_VidV34_07",
