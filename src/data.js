@@ -4,12 +4,37 @@ const BestPA = [
     data: [
       // TC3_Playable_V1_01
       // MAC_Playable_V1_01_GamePlay
-         {
+      {
+        path: "/PATestDemo/MAC_Playable_V4_01_Airport.html",
+        name: "MAC_Playable_V4_01_Airport",
+        dev: "",
+      },
+      {
+        path: "/PATestDemo/MAC_Playable_V4_02_Sea.html",
+        name: "MAC_Playable_V4_02_Sea",
+        dev: "",
+      },
+      {
+        path: "/PATestDemo/MAC_Playable_V4_03_Animal.html",
+        name: "MAC_Playable_V4_03_Animal",
+        dev: "",
+      },
+      {
+        path: "/PATestDemo/MAC_Playable_V4_04_Fruit.html",
+        name: "MAC_Playable_V4_04_Fruit",
+        dev: "",
+      },
+      {
+        path: "/PATestDemo/MAC_Playable_V4_05_Desert.html",
+        name: "MAC_Playable_V4_05_Desert",
+        dev: "",
+      },
+      {
         path: "/PATestDemo/CCP_demo_Playable_1.html",
         name: "CCP_demo_Playable_1",
         dev: "",
       },
-         {
+      {
         path: "/PATestDemo/CCP_demo_Playable_2.html",
         name: "CCP_demo_Playable_2",
         dev: "",
