@@ -5,6 +5,31 @@ const BestPA = [
       // TC3_Playable_V1_01
       // MAC_Playable_V1_01_GamePlay
       {
+        path: "/PATestDemo/MPC_Playable_V1_01_doixung.html",
+        name: "MPC_Playable_V1_01_doixung",
+        dev: "",
+      },
+      {
+        path: "/PATestDemo/MPC_Playable_V1_02_tron.html",
+        name: "MPC_Playable_V1_02_tron",
+        dev: "",
+      },
+      {
+        path: "/PATestDemo/MPC_Playable_V1_03_randdom.html",
+        name: "MPC_Playable_V1_03_randdom",
+        dev: "",
+      },
+      {
+        path: "/PATestDemo/MPC_Playable_V1_04_time45s.html",
+        name: "MPC_Playable_V1_04_time45s",
+        dev: "",
+      },
+      {
+        path: "/PATestDemo/MPC_Playable_V1_05_hardlevel.html",
+        name: "MPC_Playable_V1_05_hardlevel",
+        dev: "",
+      },
+      {
         path: "/PATestDemo/MPC_demo_strokeCell.html",
         name: "MPC_demo_strokeCell",
         dev: "",
