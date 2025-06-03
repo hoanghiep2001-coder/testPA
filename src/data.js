@@ -4,6 +4,11 @@ const BestPA = [
     data: [
       // TC3_Playable_V1_01
       // MAC_Playable_V1_01_GamePlay
+            {
+        path: "/PATestDemo/RC_FixResponsive.html",
+        name: "RC_FixResponsive",
+        dev: "",
+      },
       {
         path: "/PATestDemo/MPC_Playable_V1_01_doixung.html",
         name: "MPC_Playable_V1_01_doixung",
