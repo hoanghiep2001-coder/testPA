@@ -4,6 +4,16 @@ const BestPA = [
     data: [
       // TC3_Playable_V1_01
       // MAC_Playable_V1_01_GamePlay
+         {
+        path: "/PATestDemo/FH_Playable_V26_02_FlowerGuestWhat.html",
+        name: "FH_Playable_V26_02_FlowerGuestWhat",
+        dev: "",
+      },
+         {
+        path: "/PATestDemo/FH_Playable_V26_03_FlowerDefault.html",
+        name: "FH_Playable_V26_03_FlowerDefault",
+        dev: "",
+      },
       {
         path: "/PATestDemo/FH_Playable_V26_01_Capybara.html",
         name: "FH_Playable_V26_01_Capybara",
