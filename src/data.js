@@ -4,6 +4,12 @@ const BestPA = [
     data: [
       // TC3_Playable_V1_01
       // MAC_Playable_V1_01_GamePlay
+      // MAC_Playable_V5_01_Ref1
+             {
+        path: "/PATestDemo/MAC_Playable_V5_01_Ref1.html",
+        name: "MAC_Playable_V5_01_Ref1",
+        dev: "",
+      },
             {
         path: "/PATestDemo/RC_Playable_Type1_alphas-rejected-obsession.html",
         name: "RC_Playable_Type1_alphas-rejected-obsession",
