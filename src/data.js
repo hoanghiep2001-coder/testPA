@@ -5,22 +5,47 @@ const BestPA = [
       // TC3_Playable_V1_01
       // MAC_Playable_V1_01_GamePlay
       // MAC_Playable_V5_01_Ref1
-             {
+          {
+        path: "/PATestDemo/MAC_Playable_V5_01_Airport.html",
+        name: "MAC_Playable_V5_01_Airport",
+        dev: "",
+      },
+          {
+        path: "/PATestDemo/MAC_Playable_V5_02_BoardGame.html",
+        name: "MAC_Playable_V5_02_BoardGame",
+        dev: "",
+      },
+          {
+        path: "/PATestDemo/MAC_Playable_V5_03_Brainrot.html",
+        name: "MAC_Playable_V5_03_Brainrot",
+        dev: "",
+      },
+          {
+        path: "/PATestDemo/MAC_Playable_V5_04_IceCream.html",
+        name: "MAC_Playable_V5_04_IceCream",
+        dev: "",
+      },
+          {
+        path: "/PATestDemo/MAC_Playable_V5_05_Cats.html",
+        name: "MAC_Playable_V5_05_Cats",
+        dev: "",
+      },
+      {
         path: "/PATestDemo/MAC_Playable_V5_01_Ref1.html",
         name: "MAC_Playable_V5_01_Ref1",
         dev: "",
       },
-            {
+      {
         path: "/PATestDemo/RC_Playable_Type1_alphas-rejected-obsession.html",
         name: "RC_Playable_Type1_alphas-rejected-obsession",
         dev: "",
       },
-         {
+      {
         path: "/PATestDemo/FH_Playable_V26_02_FlowerGuestWhat.html",
         name: "FH_Playable_V26_02_FlowerGuestWhat",
         dev: "",
       },
-         {
+      {
         path: "/PATestDemo/FH_Playable_V26_03_FlowerDefault.html",
         name: "FH_Playable_V26_03_FlowerDefault",
         dev: "",
