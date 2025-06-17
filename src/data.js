@@ -5,6 +5,11 @@ const BestPA = [
       // TC3_Playable_V1_01
       // MAC_Playable_V1_01_GamePlay
       // MAC_Playable_V5_01_Ref1
+         {
+        path: "/PATestDemo/MAC_Playable_V6_06_Airport_FullStickers.html",
+        name: "MAC_Playable_V6_06_Airport_FullStickers",
+        dev: "",
+      },
       {
         path: "/PATestDemo/MAC_Playable_V6_01_Airport.html",
         name: "MAC_Playable_V6_01_Airport",
@@ -20,12 +25,12 @@ const BestPA = [
         name: "MAC_Playable_V6_03_Brainrot",
         dev: "",
       },
-           {
+      {
         path: "/PATestDemo/MAC_Playable_V6_04_IceCream.html",
         name: "MAC_Playable_V6_04_IceCream",
         dev: "",
       },
-           {
+      {
         path: "/PATestDemo/MAC_Playable_V6_05_Cats.html",
         name: "MAC_Playable_V6_05_Cats",
         dev: "",
