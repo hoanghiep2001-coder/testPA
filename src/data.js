@@ -6,9 +6,9 @@ const BestPA = [
       // MAC_Playable_V1_01_GamePlay
       // MAC_Playable_V5_01_Ref1
 
-    {
-        path: "/PATestDemo/RC2_Playable_V1_05__TheScarsSheCarries_FakeNewStories (BaoTC) (QuangBM) (the-scars-she-carries)_html_applovin.html",
-        name: "RC2_Playable_V1_05__TheScarsSheCarries_FakeNewStories (BaoTC) (QuangBM) (the-scars-she-carries)_html_applovin",
+     {
+        path: "/PATestDemo/MJAD_Playable_V2_01_Ref3.html",
+        name: "MJAD_Playable_V2_01_Ref3",
         dev: "",
       },
       {
