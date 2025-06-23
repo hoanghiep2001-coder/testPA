@@ -5,12 +5,18 @@ const BestPA = [
       // TC3_Playable_V1_01
       // MAC_Playable_V1_01_GamePlay
       // MAC_Playable_V5_01_Ref1
-        {
+      
+          {
+        path: "/PATestDemo/MPC_test.html",
+        name: "MPC_test",
+        dev: "",
+      },
+      {
         path: "/PATestDemo/MJAD_Playable_V2_02_Ref2.html",
         name: "MJAD_Playable_V2_02_Ref2",
         dev: "",
       },
-        {
+      {
         path: "/PATestDemo/MJAD_Playable_V2_03_Ref3.html",
         name: "MJAD_Playable_V2_03_Ref3",
         dev: "",
