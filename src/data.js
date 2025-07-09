@@ -6,11 +6,21 @@ const BestPA = [
       // MAC_Playable_V1_01_GamePlay
       // MAC_Playable_V5_01_Ref1
            {
+        path: "/PATestDemo/RC2_Test_Layout_AudioWordTransition.html",
+        name: "RC2_Test_Layout_AudioWordTransition",
+        dev: "",
+      },
+           {
+        path: "/PATestDemo/RC2_Test_Layout_AudioParagraphTransition.html",
+        name: "RC2_Test_Layout_AudioParagraphTransition",
+        dev: "",
+      },
+      {
         path: "/PATestDemo/RC2_Test_Layout_FullCoverBook_WithBanner.html",
         name: "RC2_Test_Layout_FullCoverBook_WithBanner",
         dev: "",
       },
-           {
+      {
         path: "/PATestDemo/RC2_Test_Layout_HalfCoverBook.html",
         name: "RC2_Test_Layout_HalfCoverBook",
         dev: "",
