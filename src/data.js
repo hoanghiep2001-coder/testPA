@@ -5,14 +5,24 @@ const BestPA = [
       // TC3_Playable_V1_01
       // MAC_Playable_V1_01_GamePlay
       // MAC_Playable_V5_01_Ref1
-          {
+           {
+        path: "/PATestDemo/RC2_Test_Layout_FullCoverBook_WithBanner.html",
+        name: "RC2_Test_Layout_FullCoverBook_WithBanner",
+        dev: "",
+      },
+           {
+        path: "/PATestDemo/RC2_Test_Layout_HalfCoverBook.html",
+        name: "RC2_Test_Layout_HalfCoverBook",
+        dev: "",
+      },
+      {
         path: "/PATestDemo/MJAD_Playable_V3_02.html",
         name: "MJAD_Playable_V3_02",
         dev: "",
       },
       {
-        path: "/PATestDemo/MPC_Final_Fix_V1_01_doixung.html",
-        name: "MPC_Final_Fix_V1_01_doixung",
+        path: "/PATestDemo/RC2_Test_Layout_FullCoverBook.html",
+        name: "RC2_Test_Layout_FullCoverBook",
         dev: "",
       },
       {
