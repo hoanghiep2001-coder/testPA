@@ -3,18 +3,13 @@ const BestPA = [
     timeline: "List:",
     data: [
       {
-        path: "/PATestDemo/RC2_V8_Version1_NoBorderBackground.html",
-        name: "RC2_V8_Version1_NoBorderBackground",
+        path: "/PATestDemo/RC2_V9_Version1_FullborderBacgrkound.html",
+        name: "RC2_V9_Version1_FullborderBacgrkound",
         dev: "",
       },
       {
-        path: "/PATestDemo/RC2_V8_Version2.html",
-        name: "RC2_V8_Version2",
-        dev: "",
-      },
-      {
-        path: "/PATestDemo/RC2_V8_Version1.html",
-        name: "RC2_V8_Version2",
+        path: "/PATestDemo/RC2_V9_Version2_FullborderBacgrkound.html",
+        name: "RC2_V9_Version2_FullborderBacgrkound",
         dev: "",
       },
     ],
