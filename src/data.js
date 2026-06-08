@@ -17,6 +17,12 @@ const BestPA = [
         name: "testAdsRC3_3_AddMraidJS",
         dev: "",
       },
+    {
+        path: "/PATestDemo/testAdsRC3_4_FixMraidJS.html",
+        name: "testAdsRC3_4_FixMraidJS",
+        dev: "",
+      },
+    
     ],
   },
 ];
