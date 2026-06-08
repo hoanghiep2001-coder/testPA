@@ -8,8 +8,13 @@ const BestPA = [
         dev: "",
       },
         {
-        path: "/PATestDemo/testAdsRC3_2.html",
-        name: "testAdsRC3_2",
+        path: "/PATestDemo/testAdsRC3_2_fixNavigatorOfFixMraid.html",
+        name: "testAdsRC3_2_fixNavigatorOfFixMraid",
+        dev: "",
+      },
+          {
+        path: "/PATestDemo/testAdsRC3_3_AddMraidJS.html",
+        name: "testAdsRC3_3_AddMraidJS",
         dev: "",
       },
     ],
