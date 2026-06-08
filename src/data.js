@@ -27,7 +27,11 @@ const BestPA = [
         name: "testAdsRC3_5_AddViewableChange",
         dev: "",
       },
-
+  {
+        path: "/PATestDemo/testAdsRC3_6_RemoveMraidJS.html",
+        name: "testAdsRC3_6_RemoveMraidJS",
+        dev: "",
+      },
     ],
   },
 ];
