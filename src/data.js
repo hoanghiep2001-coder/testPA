@@ -7,6 +7,11 @@ const BestPA = [
         name: "testAdsRC3",
         dev: "",
       },
+        {
+        path: "/PATestDemo/testAdsRC3_2.html",
+        name: "testAdsRC3_2",
+        dev: "",
+      },
     ],
   },
 ];
